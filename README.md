@@ -1,5 +1,5 @@
 #seconddemotest
-<!DOCTYPE html>
+
 <!DOCTYPE html>
 <html>
 <head>
